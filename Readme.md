@@ -1,19 +1,19 @@
 # A Small backend project
 
-### Language - TypeScript
+## Language - TypeScript
 
 ## Stack Used
 
-### NestJS
+##### NestJS
 
-### GraphQl
+##### GraphQl
 
-### TypeORM
+##### TypeORM
 
-### Jest
+##### Jest
 
-### MongoDB
+##### MongoDB
 
-### PostgreSQL
+##### PostgreSQL
 
-### PassportJs
+##### PassportJs
